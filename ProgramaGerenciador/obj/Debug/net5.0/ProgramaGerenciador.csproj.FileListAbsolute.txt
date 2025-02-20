@@ -1,0 +1,16 @@
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ProgramaGerenciador.exe
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ProgramaGerenciador.deps.json
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ProgramaGerenciador.runtimeconfig.json
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ProgramaGerenciador.runtimeconfig.dev.json
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ProgramaGerenciador.dll
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ref\ProgramaGerenciador.dll
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\bin\Debug\net5.0\ProgramaGerenciador.pdb
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.AssemblyInfoInputs.cache
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.AssemblyInfo.cs
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.csproj.CoreCompileInputs.cache
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.dll
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ref\ProgramaGerenciador.dll
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.pdb
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.genruntimeconfig.cache
+C:\Users\luis.fbsantos11\source\repos\ProgramaGerenciador\ProgramaGerenciador\obj\Debug\net5.0\ProgramaGerenciador.csproj.AssemblyReference.cache
